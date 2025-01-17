@@ -1,0 +1,27 @@
+{
+	"search_button": "Buscar",
+	"favorites_title": "UBICACIONES FAVORITAS",
+	"selectUnit": "Seleccionar Unidad",
+	"celsius": "Celsius",
+	"fahrenheit": "Fahrenheit",
+	"degrees": {
+		"C": "C",
+		"F": "F"
+	},
+	"temperature": "Temperatura",
+	"humidity": "Humedad",
+	"wind": "Viento",
+	"location": {
+		"id": "ubicacion",
+		"label": "UIbicacion"
+	},
+	"add_to_favorites": "Agregar a favoritos",
+	"weather_data_provided_by": "Datos proporcionados por",
+	"ayesa_weather_app": "El Tiempo App - Ayesa",
+	"error_invalid_location": "Dato incorrecto.",
+	"error_location_already_favorite": "Ya guardado en favoritos.",
+	"error_city_field_required": "El campo de ciudad es obligatorio.",
+	"error_city_not_found": "Ciudad no encontrada.",
+	"error_unknown": "Error desconocido.",
+	"error_invalid_full_city_name": "El nombre ingresado no coincide con el nombre completo de la ciudad."
+}

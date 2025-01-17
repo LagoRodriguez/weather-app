@@ -1,0 +1,49 @@
+.container {
+    padding: 2rem;
+    max-width: 2000px;
+    margin: 0 auto;
+    background-color: transparent;
+}
+body {
+    margin:4rem;
+    font-family: Arial, sans-serif;
+    background-image: url('/images/clouds.png');
+    background-size: contain;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: #6a89cc;
+    font-weight: bold;
+    font-family: 'Georgia', serif;
+    font-size: 2.5rem;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+
+.errorText {
+    color: red;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.footer {
+    padding: 10px;
+}
+
+.fullWidthButton {
+    width: 100%;
+}
+
+.addFavoriteButton {
+    white-space: nowrap;
+    height: 56px;
+    align-items: center;
+}
+

@@ -1,0 +1,17 @@
+.formContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+}
+
+.textField {
+    flex-grow: 1;
+    background-color: white;
+}
+
+.searchButton {
+    white-space: nowrap;
+    height: 56px;
+    align-items: center;
+}

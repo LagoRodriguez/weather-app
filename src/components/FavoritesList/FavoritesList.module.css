@@ -1,0 +1,22 @@
+.favoritesContainer {
+    margin-top: 1rem;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+.favoritesTitle {
+    text-align: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-bottom: 2px solid #ccc;
+}
+
+.selectedCity {
+    cursor: pointer;
+    background-color: white;
+    transition: background-color 0.3s ease;
+}
+
+.selectedCity:hover {
+    background-color: #b3b3b3;
+}

@@ -1,0 +1,28 @@
+{
+    "search_button": "Search",
+    "favorites_title": "FAVORITE LOCATIONS",
+    "selectUnit": "Select Unit",
+    "celsius": "Celsius",
+    "fahrenheit": "Fahrenheit",
+    "degrees": {
+        "C": "C",
+        "F": "F"
+    },
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "location": {
+        "id": "location",
+        "label": "Location"
+    },
+    "add_to_favorites": "Add to Favorites",
+    "weather_data_provided_by": "Weather data provided by",
+    "ayesa_weather_app": "Ayesa Weather App",
+    "error_invalid_location": "The location is invalid.",
+    "error_location_already_favorite": "The location is already in your favorites.",
+    "error_city_field_required": "The city field is required.",
+    "error_city_not_found": "The city was not found.",
+    "error_unknown": "An unknown error occurred.",
+    "error_invalid_full_city_name": "The entered name does not match the full city name."
+}
+

@@ -1,0 +1,9 @@
+.weatherDisplay {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 16px;
+    background-color: #f9f9f9;
+    display: flex;
+    flex-direction: column;
+}
