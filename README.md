@@ -17,7 +17,7 @@ English version
 	Installation
 	Clone the Repository:
 
-	git clone https://github.com/lagorodriguez/ayesaweatherapp.git
+	git clone  https://github.com/LagoRodriguez/weather-app.git
 	cd ayesaweatherapp
 
 
@@ -63,7 +63,7 @@ Versión Española
 	Instalación
 	Clonar el repositorio:
 
-	clon de git https://github.com/lagorodriguez/ayesaweatherapp.git
+	clon de git  https://github.com/LagoRodriguez/weather-app.git
 	cd ayesawaweatherapp
 
 
